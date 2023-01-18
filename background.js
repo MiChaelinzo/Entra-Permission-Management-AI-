@@ -11,7 +11,7 @@ chrome.history.onVisited.addListener(function(historyItem) {
     });
   });
   
-  
+    // Train the machine learning model with the user's browsing history
     // Use the history data to train the model
 function trainModel() {
     chrome.storage.local.get('history', function(result) {
@@ -31,9 +31,8 @@ function trainModel() {
   
   
   
- 
+      // Use the trained model to grant or block permissions
       // Use the history data and the trained model to make a decision on granting or blocking the permission
-      // ...// Use the history data and the trained model to make a decision on granting or blocking the permission
 chrome.permissions.onBeforeRequest.addListener(function(permission) {
     chrome.storage.local.get('history', function(result) {
       var history = result.history;
