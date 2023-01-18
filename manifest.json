@@ -1,0 +1,11 @@
+{
+    "name": "Entra Permissions Management",
+    "version": "1.0",
+    "permissions": ["history", "permissions", "storage"],
+    "background": {
+    "scripts": ["background.js"]
+    },
+    "manifest_version": 2
+    }
+    
+    
