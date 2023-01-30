@@ -1,5 +1,5 @@
 {
-    "name": "Entra Permissions Management",
+    "name": "Entra Permissions Management Artificial Intelligence",
     "version": "1.0",
     "permissions": ["history", "permissions", "storage"],
     "background": {
