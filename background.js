@@ -1,13 +1,13 @@
 // Collect data on the user's browsing history and habits
-opera.history.onVisited.addListener(function(historyItem) {
+chrome.history.onVisited.addListener(function(historyItem) {
     var data = {
       url: historyItem.url,
       time: Date.now()
     };
-    opera.storage.local.get('history', function(result) {
+    chrome.storage.local.get('history', function(result) {
       var history = result.history || [];
       history.push(data);
-      opera.storage.local.set({'history': history});
+      chrome.storage.local.set({'history': history});
     });
   });
   
@@ -15,7 +15,7 @@ opera.history.onVisited.addListener(function(historyItem) {
 
     // Use the history data to train the model
 function trainModel() {
-    opera.storage.local.get('history', function(result) {
+    chrome.storage.local.get('history', function(result) {
       var history = result.history;
       // preprocessing the data
       var data = preprocessData(history)
@@ -36,8 +36,8 @@ function trainModel() {
 
       // Use the history data and the trained model to make a decision on granting or blocking the permission
       // ...
-opera.permissions.onBeforeRequest.addListener(function(permission) {
-    opera.storage.local.get('history', function(result) {
+chrome.permissions.onBeforeRequest.addListener(function(permission) {
+    chrome.storage.local.get('history', function(result) {
       var history = result.history;
       // preprocessing the data
       var data = preprocessData(history)
