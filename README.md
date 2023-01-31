@@ -11,6 +11,8 @@ It is important to note that this project raises some security, privacy and ethi
 3.) Select the cloned folder repository: Entra Permission Management AI
 4.) Enjoy Entra Permission Management Artificial Intelligence! 
 
+
 ![Razeswag77_Entra_Permissions_Management_artificial_intelligence_c828e04c-a40d-46e7-bbc3-3fb155a81336](https://user-images.githubusercontent.com/68110223/215431620-ce9c5b7a-0660-439a-ac4b-f0b4275d0834.png)
+
 
 ![Fotor_AI (4)](https://user-images.githubusercontent.com/68110223/213177376-2de15c2d-67b3-4324-b21f-53d7dffb9b8f.png)
