@@ -5,11 +5,12 @@ It is important to note that this project raises some security, privacy and ethi
 
 # How to use:
 
-- 0.1.) Git clone this repository
-- 1.) Go to manage extension of your browser
-- 2.) Select Load unpacked
-- 3.) Select the cloned folder repository: Entra Permission Management AI
-- 4.) Enjoy Entra Permission Management Artificial Intelligence! 
+- 1.) Git clone this repository
+- 2.) Go to manage extension of your browser
+- 3.) Select Load unpacked
+- 4.) Select the cloned folder repository: Entra Permission Management AI
+- 5.) Enjoy Entra Permission Management Artificial Intelligence! 
+<img width="842" alt="Screenshot 2023-02-11 102225" src="https://user-images.githubusercontent.com/68110223/218246229-551a1c8f-82f7-48c5-be6c-13c93745507f.png">
 
 
 ![Razeswag77_Entra_Permissions_Management_artificial_intelligence_c828e04c-a40d-46e7-bbc3-3fb155a81336](https://user-images.githubusercontent.com/68110223/215431620-ce9c5b7a-0660-439a-ac4b-f0b4275d0834.png)
