@@ -12,6 +12,7 @@ It is important to note that this project raises some security, privacy and ethi
 - 5.) Enjoy Entra Permission Management Artificial Intelligence! 
 
 <img width="653" alt="Screenshot 2023-02-11 102552" src="https://user-images.githubusercontent.com/68110223/218246252-dfbb2f9f-25cc-4332-addb-2a0f42c45464.png">
+<img width="443" alt="Screenshot 2023-02-12 100926" src="https://user-images.githubusercontent.com/68110223/218298089-08e95445-5500-4b68-b3ca-0366be7ffc5c.png">
 
 ![Razeswag77_Entra_Permissions_Management_artificial_intelligence_c828e04c-a40d-46e7-bbc3-3fb155a81336](https://user-images.githubusercontent.com/68110223/215431620-ce9c5b7a-0660-439a-ac4b-f0b4275d0834.png)
 
